@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SomaAz
-- 👀 I’m interested in Mobile development or Programming
-- 🌱 I’m currently learning Futter for Mobile apps
+- 👋 Hi, I’m SomaAz
+- 👀 I’m interested in Mobile apps development 
+- 🌱 I’m currently developing Google Futter apps for Mobile 
 
 <!---
 SomaAz/SomaAz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
