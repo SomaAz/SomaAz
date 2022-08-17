@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, NodeJS, PHP, REST API**
 
-- 👨‍💻 All of my projects are available at [https://mostaql.com/u/SomaAz](https://mostaql.com/u/SomaAz)
+- 👨‍💻 All of my projects are available at [https://mostaql.com/u/SomaAz/portfolio](https://mostaql.com/u/SomaAz/portfolio)
 
 - 💬 Ask me about **Flutter**
 
